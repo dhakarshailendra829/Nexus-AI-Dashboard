@@ -78,12 +78,12 @@ I have given permission but stil acess denied due to it access other permission 
 
 ---
 
-## olution
+## Solution
 - Opened HTTP port in security group
 - Restarted Apache using `systemctl restart httpd`
 - Assigned correct IAM policies
 
 ---
 
-## 📌 Final Note
+## Final Note
 Elastic IP is used for stable public access of deployed website.
