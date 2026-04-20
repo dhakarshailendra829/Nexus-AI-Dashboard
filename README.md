@@ -44,17 +44,31 @@ This project demonstrates hosting a static website (HTML, CSS, JS) on AWS EC2 us
 ## 📸 Screenshots
 
 ### 1. EC2 Instance (AWS Console)
-(Add screenshot showing instance running with your name visible)
+EC2 instance running in AWS Console with configuration details visible.
+
+![EC2 Instance](screenshots/ec2-instance.png)
+
+---
 
 ### 2. Website Running
-(Add screenshot of http://3.15.172.41/ working)
+Static website successfully deployed and accessible via Elastic IP.
+
+👉 http://3.15.172.41/
+
+![Website Running](screenshots/website.png)
+
+---
 
 ### 3. IAM User 1 Login
-(Add access denied screenshot)
+User 1 login showing access denied due to no AWS permissions.
+
+![IAM User 1](screenshots/iam-user1.png)
+
+---
 
 ### 4. IAM User 2 Login
-(Add EC2 dashboard visible screenshot)
-
+User 2 login showing EC2 dashboard access with instances visible.
+Not done
 ---
 
 ## ⚠️ Challenges Faced
