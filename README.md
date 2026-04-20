@@ -67,7 +67,7 @@ User 1 login showing access denied due to no AWS permissions.
 ---
 
 ### 4. IAM User 2 Login
-I have given permission but stil acess denied due to it access other permission such as billing etc. 
+![IAM User 1](assets/user2.png)
 
 ---
 
